@@ -1,0 +1,9 @@
+d:\Projects\mini_siem\
+├── .venv\
+└── mini_siem\
+    ├── modules\
+    ├── templates\
+    ├── README.md
+    ├── app.py
+    ├── main.py
+    └── requirements.txt
